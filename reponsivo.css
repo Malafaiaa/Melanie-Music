@@ -1,0 +1,20 @@
+
+/* Adaptações para o iPhone 11 */
+@media only screen and (max-device-width: 828px) {
+    .container-aplicativo {
+        padding: 10px; /* Reduz o padding para economizar espaço */
+    }
+
+    #play-pause {
+        font-size: 40px; /* Reduz o tamanho do ícone para dispositivos menores */
+    }
+    #anterior{
+        font-size: 40px;
+    }
+    #proximo{
+        font-size: 40px;
+    }
+    #melanie-fundo{
+        max-width: 80%;
+    }
+}
